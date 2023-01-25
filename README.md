@@ -1,6 +1,6 @@
 ## **<ins><div align="center">Hey 👋, I'm Hitesh Pache!</div></ins>**  
   
-
+<div align="center">
 <a href="https://instagram.com/https://instagram.com/hitesh_pache_?igshid=ZDdkNTZiNTM=" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=red alt=instagram style="margin-bottom: 5px;" />
 </a>
