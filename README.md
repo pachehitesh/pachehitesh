@@ -25,7 +25,7 @@ Hitesh is a highly skilled web developer with  in building and maintaining dynam
   
 
 <br/>  
-
+<div>
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
