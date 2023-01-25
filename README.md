@@ -1,8 +1,8 @@
-## **<ins>Hey 👋, I'm Hitesh Pache!</ins>**  
+## **<ins><div align="center">Hey 👋, I'm Hitesh Pache!</div></ins>**  
   
 
 <a href="https://instagram.com/https://instagram.com/hitesh_pache_?igshid=ZDdkNTZiNTM=" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=red alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hitesh-pache-351239250" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/https://github.com/pachehitesh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=black alt=github style="margin-bottom: 5px;" />
 </a>  
   
 
@@ -122,4 +122,3 @@ Hitesh is a highly skilled web developer with  in building and maintaining dynam
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
