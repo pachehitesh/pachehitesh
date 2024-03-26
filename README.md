@@ -27,7 +27,7 @@ Hitesh is a highly skilled web developer with in building and maintaining dynami
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Projects  
+- 🔭 I’m currently working on Freelance Projects  
   
 
 - 🌱 I’m currently learning Datascience and Devops  
