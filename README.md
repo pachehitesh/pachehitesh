@@ -1,77 +1,37 @@
-## Hey 👋, I'm Hitesh Pache!  
-  
-<a href="https://linkedin.com/in/hitesh-pache-351239250/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/pachehitesh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/HiteshPache1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-### Glad to see you here!  
-Hitesh is a highly skilled web developer and data analyst with experience in building and maintaining dynamic, responsive websites and analyzing complex datasets. He has a strong understanding of web development technologies such as HTML, CSS, JavaScript, Python, C, C++, and various frameworks like React, Angular, and Django. Additionally, he is proficient in data analysis using tools like Pandas, NumPy, SQL, Power BI, and Tableau. 
+# Hello World! 👋🏼 I'm Hitesh Pache, a Data Analyst 📊  
+🔍 Passionate about extracting insights from data and making data-driven decisions.  
+📊 Skilled in Python, SQL, and Machine Learning.  
+📈 Always exploring new data visualization techniques and statistical models.  
 
-He is skilled in both front-end and back-end development, has experience working with databases and server-side languages such as PHP, Node.js, and MongoDB, and applies statistical analysis and visualization techniques for data-driven decision-making.
-  
-<br/>  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007ACC.svg?style=for-the-badge&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%23039BE5.svg?style=for-the-badge&logo=seaborn&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+# 📈 GitHub Stats:  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiteshpache&show_icons=true&count_private=true&hide_border=true)  
 
-- 🔭 I’m currently working on Freelance Projects  
-  
-- 🌱 I’m currently learning Data Science, DevOps, and Advanced SQL  
-  
-- ❓ Ask me about anything related to Coding, Data Analytics, and related technologies  
-  
-- ⚡ Fun fact: My PC is my life  
+# 📊 Top Languages:  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshpache&layout=compact)  
 
-</td><td valign="top" width="50%">
+# 🤝 Connect with Me:  
+<a href="https://www.linkedin.com/in/hiteshpache" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+<a href="mailto:hiteshpache@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>  
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
-
-<br/>  
-
-## Languages, Tools, and Skills  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas.svg" alt="Pandas" height="25" /></a>  
-<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy.svg" alt="NumPy" height="25" /></a>  
-<a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.svg" alt="Power BI" height="25" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
-</div>  
-
-<br/>  
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pachehitesh&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachehitesh&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=pachehitesh&&style=flat-square)  
-
-<br/>  
-
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiteshpache/hiteshpache/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiteshpache/hiteshpache/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hiteshpache/hiteshpache/output/github-snake.svg" />
+</picture>  
