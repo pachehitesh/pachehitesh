@@ -11,9 +11,16 @@
 </a>
 
 ### Glad to see you here!  
-Hitesh is a highly skilled web developer and data analyst with experience in building and maintaining dynamic, responsive websites and analyzing complex datasets. He has a strong understanding of web development technologies such as HTML, CSS, JavaScript, Python, C, C++, and various frameworks like React, Angular, and Django. Additionally, he is proficient in data analysis using tools like Pandas, NumPy, SQL, Power BI, and Tableau. 
+👋 Hi, I’m Hitesh Pache — a passionate Data Analyst with hands-on experience in Python, SQL, Power BI, and Excel.
 
-He is skilled in both front-end and back-end development, has experience working with databases and server-side languages such as PHP, Node.js, and MongoDB, and applies statistical analysis and visualization techniques for data-driven decision-making.
+I specialize in transforming raw data into insightful dashboards and reports that drive business decisions. My GitHub showcases real-world projects, from sales analytics to data cleaning and visualization tasks.
+
+🔍 I’m actively seeking full-time opportunities in Data Analytics where I can apply my skills and grow in a collaborative environment.
+
+✅ 𝗧𝗼𝗼𝗹𝘀: Python (Pandas, NumPy, Matplotlib), SQL, Power BI , Tableau , MS Excel
+📊 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀: GitHub — https://github.com/pachehitesh
+
+Let’s connect and explore how I can add value to your team!
   
 <br/>  
 
