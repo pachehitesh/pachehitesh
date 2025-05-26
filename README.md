@@ -18,7 +18,7 @@ I specialize in transforming raw data into insightful dashboards and reports tha
 🔍 I’m actively seeking full-time opportunities in Data Analytics where I can apply my skills and grow in a collaborative environment.
 
 ✅ 𝗧𝗼𝗼𝗹𝘀: Python (Pandas, NumPy, Matplotlib), SQL, Power BI , Tableau , MS Excel
-📊 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀: GitHub — https://github.com/pachehitesh
+
 
 Let’s connect and explore how I can add value to your team!
   
